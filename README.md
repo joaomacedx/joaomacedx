@@ -1,9 +1,1 @@
-- 👋 Hi, I’m João Macêdo, Computer Engineering Student Energetic and committed,  with excellence in communication skills and spirit. At the University in addition to
-the Real Learning Program of the Application of My Knowledge to the Real Learning Technology, participating in my knowledge to the Real Learning Technology Technology of the Virtual Laboratory.
-I have experience in advanced Excel and financial routines as well as: clearing, reconciliation, bank release and other Accounts Receivable processes.
-I am currently looking for opportunities to work in my academic field.
-
-<!---
-joaomacedx/joaomacedx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, me chamo João Macêdo, sou um estudante de Engenharia da Computação, enérgico e comprometido, com excelentes habilidades de comunicação e espírito de liderança. Atualmente atuo como Estagiário de Engenharia de Software, onde  estou aplicando, os pilares da agilidade no cotidiano, a fim de aumentar a produtividade no desenvolvimento, teste e manutenção de aplicações desktop. No meu fluxo de trabalho utilizo as seguintes tecnologias: Banco de dados SQL, Git, .Net Framework, C#/Windows Forms. Em paralelo participo do programa de imersão- START by CAPGEMINI, onde venho aperfeiçoando meus conhecimentos em Lógica de programação e desenvolvendo habilidades em: Cloud, Segurança na nuvem, Arquitetura de nuvem, entre outras tecnologias. Já  Universidade estou desenvolvendo os meus conhecimentos para além da grade curricular, participando do programa de Aplicação de Tecnologia de Realidade Aumentada em Práticas Imersivas de Laboratório Virtual.  
