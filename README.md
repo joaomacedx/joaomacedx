@@ -1,1 +1,30 @@
-- 👋 Oi, me chamo João Macêdo, sou um estudante de Engenharia da Computação, enérgico e comprometido, com excelentes habilidades de comunicação e espírito de liderança. Atualmente atuo como Estagiário de Engenharia de Software, onde  estou aplicando, os pilares da agilidade no cotidiano, a fim de aumentar a produtividade no desenvolvimento, teste e manutenção de aplicações desktop. No meu fluxo de trabalho utilizo as seguintes tecnologias: Banco de dados SQL, Git, .Net Framework, C#/Windows Forms. Em paralelo participo do programa de imersão- START by CAPGEMINI, onde venho aperfeiçoando meus conhecimentos em Lógica de programação e desenvolvendo habilidades em: Cloud, Segurança na nuvem, Arquitetura de nuvem, entre outras tecnologias. Já  Universidade estou desenvolvendo os meus conhecimentos para além da grade curricular, participando do programa de Aplicação de Tecnologia de Realidade Aumentada em Práticas Imersivas de Laboratório Virtual.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=joaomacedx" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=joaomacedx" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaomacedx/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://criarmeulink.com.br/u/1655843057" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
