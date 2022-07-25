@@ -1,10 +1,15 @@
 <br clear="both">
 
 <div align="center">
+<p>Computer Engineering student, energetic and committed, with excellent communication skills and leadership spirit. Currently I work as a Software Engineering Intern, where I am applying the pillars of agility in everyday life, in order to increase productivity in: development, testing, refactoring and maintenance of systematic solutions with the production of clean, safe and optimized code.<\p>
+</div>
+
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&username=joaomacedx" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&username=joaomacedx" height="150" alt="languages graph"  />
 </div>
-
+<hr>
 
 
 <br clear="both">
