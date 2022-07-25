@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-*Computer Engineering student, energetic and committed, with excellent communication skills and leadership spirit. Currently I work as a Software Engineering Intern, where I am applying the pillars of agility in everyday life, in order to increase productivity in: development, testing, refactoring and maintenance of systematic solutions with the production of clean, safe and optimized code.
+Computer Engineering student, energetic and committed, with excellent communication skills and leadership spirit
 </div>
 <hr>
 <div align="center">
