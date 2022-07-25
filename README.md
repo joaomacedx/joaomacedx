@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-Computer Engineering student, energetic and committed, with excellent communication skills and leadership spirit
+Computer Engineering student, energetic and committed, with excellent communication skills and leadership spirit!
 </div>
 <hr>
 <div align="center">
