@@ -1,20 +1,4 @@
-<div align="center">
-<p>Software Engineering student, energetic and
-committed, with excellent skills of
-communication and leadership spirit. At the moment
-I work as a Software Engineering intern,
-where I am applying, the pillars of agility in
-daily life in order to increase productivity in the
-development, testing, refactoring and maintenance
-of systematic solutions with code production
-clean, safe and optimized, aimed at the
-Oil, Gas and Energy Industries. I seek
-opportunities to embrace new challenges by acting
-as a Junior Developer in order to improve
-my practical and theoretical knowledge, as well as
-how to enhance and develop my
-technical and interpersonal skills.</p>
-</div>
+
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=joaomacedx" height="150" alt="stats graph"  />
