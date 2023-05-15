@@ -2,8 +2,8 @@
 
 - 📫 You can reach me at joaomacedx@gmail.com
 - 🎓 Bachelor of Software Engineering in progress 
-- 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University<a\>
-- 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software<\a>
+- 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a>
+- 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software</a>
 
 
 <br clear="both">
