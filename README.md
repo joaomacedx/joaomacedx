@@ -1,4 +1,5 @@
-# Hello World, my name is João Macêdo! 👋 
+<h1 align= "center"><b>Hello World! 🌎:</b></h1>
+# My name is João Macêdo! 👋 
 ## I'm a Brazilian Researcher and Software Developer 👨‍💻
 ### It will be a pleasure to meet you!! 🫂
 - 📫 You can reach me at joaomacedx@gmail.com
