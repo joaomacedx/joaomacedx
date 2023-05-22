@@ -1,5 +1,5 @@
 <h1 align= "center"><b> 🌎 Hello World 🌎</b></h1>
-- 🤝 My name is João Macêdo<br>
+- 🤝 My name is <a href="https://www.linkedin.com/in/joaomacedx/">João Macêdo</a><br>
 - 🇧🇷 I am Brazilian, born in Salvador, Bahia 🌊<br>
 - 📫 You can reach me at <a href="mailto:joaomacedx@gmail.com">joaomacedx@gmail.com</a><br>
 - 🎓 Bachelor of Software Engineering in progress <br>
