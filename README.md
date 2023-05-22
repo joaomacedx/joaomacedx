@@ -4,7 +4,7 @@
 - 🇧🇷 I am Brazilian, born in <a href= "https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
 - 📫 You can reach me at <a href="mailto:joaomacedx@gmail.com">joaomacedx@gmail.com</a><br>
 - 🎓 Bachelor of Software Engineering in progress <br>
-- 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a><br>
+- 🕵️‍ Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a><br>
 - 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software</a><br>
 <br>
 <hr>
