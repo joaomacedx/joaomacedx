@@ -1,4 +1,5 @@
-# Hello World! 👋 My name is João Macêdo, I'm a Brazilian software developer, it will be a pleasure to meet you!!
+# Hello World 👋 
+ <div align="center">My name is João Gabriel Macêdo, I'm a Brazilian software developer, it will be a pleasure to meet you!!</div>
 - 📫 You can reach me at joaomacedx@gmail.com
 - 🎓 Bachelor of Software Engineering in progress 
 - 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a>
