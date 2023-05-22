@@ -16,3 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true&username=joaomacedx" height="150" alt="languages graph"  />
 </div>
 <br clear="both">
+<hr>
