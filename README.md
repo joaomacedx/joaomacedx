@@ -6,6 +6,7 @@
 <br>
 <br clear="both">
 <div align="center">
+  <h3> Github Stats </h3>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joaomacedx&theme=radical&locale=en&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="João Macêdo Contribution Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=joaomacedx" height="150" alt="stats graph"  />
