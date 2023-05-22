@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=joaomacedx=blue" alt="Profile views">
+</p>
+
 
 - 📫 You can reach me at joaomacedx@gmail.com
 - 🎓 Bachelor of Software Engineering in progress 
