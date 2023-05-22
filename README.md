@@ -1,6 +1,6 @@
 <h1 align= "center"><b> 🌎 Hello World 🌎</b></h1>
 - 🤝 My name is <a href="https://www.linkedin.com/in/joaomacedx/">João Macêdo</a><br>
-- 🇧🇷 I am Brazilian, born in <a href= "https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.htmSalvador"</a>, Bahia 🌊<br>
+- 🇧🇷 I am Brazilian, born in <a href= "https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
 - 📫 You can reach me at <a href="mailto:joaomacedx@gmail.com">joaomacedx@gmail.com</a><br>
 - 🎓 Bachelor of Software Engineering in progress <br>
 - 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a><br>
