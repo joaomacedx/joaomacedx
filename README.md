@@ -1,4 +1,4 @@
-### Hello World! 👋
+# Hello World! 👋
 ## My name is João Macêdo, I'm a Brazilian software developer, it will be a pleasure to meet you!!
 - 📫 You can reach me at joaomacedx@gmail.com
 - 🎓 Bachelor of Software Engineering in progress 
