@@ -1,4 +1,5 @@
 <h1 align= "center"><b> 🌎 Hello World 🌎</b></h1>
+<br clear="both">
 - 📫 You can reach me at joaomacedx@gmail.com
 - 🎓 Bachelor of Software Engineering in progress 
 - 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a>
