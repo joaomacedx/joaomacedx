@@ -17,4 +17,4 @@
 </div>
 <br clear="both">
 <hr>
-⭐️ From [joaomacedx](https://github.com/joaomacedx)
+⭐️ From <a href"https://github.com/joaomacedx">joaomacedx</a>
