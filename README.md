@@ -1,7 +1,7 @@
 <h1 align= "center"><b> 🌎 Hello World 🌎</b></h1>
 - 🤝 My name is João Macêdo<br>
 - 🇧🇷 I am Brazilian, born in Salvador, Bahia 🌊<br>
-- 📫 You can reach me at joaomacedx@gmail.com <br>
+- 📫 You can reach me at <a href="mailto:joaomacedx@gmail.com">joaomacedx@gmail.com</a><br>
 - 🎓 Bachelor of Software Engineering in progress <br>
 - 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a><br>
 - 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software</a><br>
