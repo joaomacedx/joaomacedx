@@ -18,4 +18,3 @@
 </div>
 <br clear="both">
 <hr>
-<p>⭐️ From <a href"https://github.com/joaomacedx">joaomacedx</a></p>
