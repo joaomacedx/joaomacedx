@@ -6,6 +6,7 @@
 - 🕵️‍ Volunteer Researcher at the Laboratory of Microcontroller Architecture and Application of Virtual Reality and Augmented Reality Technology at <a href="https://www.unifacs.br">Salvador University</a><br>
 - 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software</a><br>
 <br>
+<hr>
 <br clear="both">
 <div align="center">
   <h3> GitHub Stats </h3>
