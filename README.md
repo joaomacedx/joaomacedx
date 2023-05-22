@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=joaomacedx=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=joaomacedx&color=blue" alt="Profile views">
 </p>
 
 
