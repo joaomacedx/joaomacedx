@@ -6,4 +6,3 @@
 - 🕵️‍ Researcher at the Laboratory of Microcontroller Architecture, Technology and Inovation at <a href="https://www.unifacs.br">Salvador University</a><br>
 - 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software</a><br>
 <br>
-<hr>
