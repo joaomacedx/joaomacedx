@@ -1,4 +1,4 @@
-<div align="center">
+
   <hr>
   <div>ABOUT ME:</div>
 
@@ -19,5 +19,4 @@
    ☛<a href="https://cursos.alura.com.br/degree/certificate/6d82d916-2649-42ed-8543-7b31768b65f3?lang=en"> 4. C# and Object Oriented programming - Alura </a><br>
    ☛<a href="https://drive.google.com/file/d/1jyXlZEGic3ZvL7F4dQjUIeKM5-iDslUl/view?usp=drivesdk"> 5. LGPD - Ânima Educação </a><br>
    ☛<a href="https://drive.google.com/file/d/132QSzy79gaX7kI-jK6nZmO-iUGvr5W_L/view?usp=drivesdk"> 6. Leadership - Ânima Educação </a><br>
- 
-</div>
+
