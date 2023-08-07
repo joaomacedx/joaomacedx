@@ -1,3 +1,8 @@
+
+   <div align="center">
+      <h3> Certifications and Specializations: </h3>
+   </div>
+
 - 🤝 My name is <a href="https://www.linkedin.com/in/joaomacedx/">João Gabriel dos Reis Hermida Macêdo</a><br>
 - 🇧🇷 I am Brazilian, born in <a href= "https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
 - 📫 You can reach me at <a href="mailto:joaomacedx@gmail.com">joaomacedx@gmail.com</a><br>
@@ -7,8 +12,9 @@
 <br>
 
 
-<h2> Certifications and Specializations: </h2>
+
 <div align="center">
+   <h3> Certifications and Specializations: </h3>
    <a href="https://www.coursera.org/account/accomplishments/verify/DCW6HVETYK5L"> 1. Test Driven Development - Aeronautics Institute of Technology</a><br>
    <a href= "https://drive.google.com/file/d/1pFW06RpDLO7Taiz6eHL4pg9x74fh6F8b/view"> 2. Cloud Computing for Processing Data Collected by Embedded IoT Platforms - Ânima Educação </a><br>
    <a href="https://drive.google.com/file/d/1UJV0WiqPPWL_KRW0K843jK3BqvDz3QHM/view?usp=sharing"> 3. CCNA Routing and Switching: Introduction to Networks - Cisco Networking </a><br>
