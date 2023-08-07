@@ -1,4 +1,5 @@
 
+<hr>
 
 
 - 🤝 My name is <a href="https://www.linkedin.com/in/joaomacedx/">João Gabriel dos Reis Hermida Macêdo</a><br>
@@ -8,6 +9,8 @@
 - 🕵️‍ Researcher at the Laboratory of Microcontroller Architecture, Technology and Inovation at <a href="https://www.unifacs.br">Salvador University</a><br>
 - 💼 Currently working at <a href="https://www.radixeng.com">Radix Engineering & Software</a><br>
 
+
+<hr>
 
    <h3> 📜 Certifications and Specializations 📜</h3>
    ☛<a href="https://www.coursera.org/account/accomplishments/verify/DCW6HVETYK5L"> 1. Test Driven Development - Aeronautics Institute of Technology</a><br>
