@@ -1,6 +1,6 @@
 
    <div align="center">
-      <h3> Certifications and Specializations: </h3><br>
+      <h3> About me: </h3><br>
       - 🤝 My name is <a href="https://www.linkedin.com/in/joaomacedx/">João Gabriel dos Reis Hermida Macêdo</a><br>
 - 🇧🇷 I am Brazilian, born in <a href= "https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
 - 📫 You can reach me at <a href="mailto:joaomacedx@gmail.com">joaomacedx@gmail.com</a><br>
